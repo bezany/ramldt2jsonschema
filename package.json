@@ -38,7 +38,7 @@
     "commander": "^2.19.0",
     "datatype-expansion": "^0.3.5",
     "deep-get-set": "^1.1.0",
-    "js-yaml": "^3.10.0",
+    "js-yaml": "3.12.0",
     "sync-request": "^6.0.0",
     "yaml-ast-parser": "0.0.41"
   },
